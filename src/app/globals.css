@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+body{
+  background-color:#161616;
+  color:whitesmoke;
+}
+.heading h1{
+  font-size: 3.6rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  margin-top: 8rem;
+  text-align: center;
+}
+.heading p{
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-left:10rem;
+  margin-right:10rem;
+  text-align: center;
+}
+.heading h2{
+  font-size:1.4rem;
+  font-weight: 900;
+  margin-top: 1rem;
+  text-align: center;
+  font-style:italic;
+}
+.serve{
+  width:70rem;
+  height:112rem;
+  border-radius: 12px;
+  border: 1px solid whitesmoke;
+  margin:auto;
+  margin-top: 4rem;
+  padding:4rem;
+  font-size:fit-content;
+  background: linear-gradient( #121212, #161616);
+  box-shadow: 0 0 30px rgba(132, 129, 129, 0.676);
+  margin-bottom: 4rem;
+}
+.CPS{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  border: 1px solid #959191;
+}
+.head{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  font-weight:800;
+  font-size:1.7rem;
+  border-bottom: 1px solid #959191;
+}
+.CPI{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;
+}
+
+.CPI h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.CPS h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.CPI h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+.CPS h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+.CPL{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;
+}
+.CPL h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.CPL h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+
+.monit{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;  
+}
+.monit h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.monit h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
