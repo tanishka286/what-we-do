@@ -27,7 +27,7 @@ body{
 }
 .serve{
   width:70rem;
-  height:112rem;
+  height:246rem;
   border-radius: 12px;
   border: 1px solid whitesmoke;
   margin:auto;
@@ -124,6 +124,106 @@ body{
   font-weight: 700;
 }
 .monit h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+.web{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;  
+}
+.web h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.web h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+.marketing{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;  
+}
+.marketing h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.marketing h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+.graphic{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;  
+}
+.graphic h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.graphic h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+.video{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;  
+}
+.video h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.video h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-style:italic;
+}
+.promo{
+  height:22rem;
+  width:95%;
+  padding: 1.5rem;
+  display:flex;
+  flex-direction: column;
+  margin:auto;
+  margin-top:5rem;
+  border: 1px solid #959191;  
+}
+.promo h1{
+  font-size: 1rem;
+  font-weight: 700;
+}
+.promo h2{
   font-size: 1rem;
   font-weight: 600;
   margin-top: 1rem;
