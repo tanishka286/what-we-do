@@ -239,7 +239,7 @@ body {
   .mid1 h2::before,
   .mid2 h2::before,
   .mid3 h2::before,
-  .mid h2::before,
+  .mid4 h2::before,
   .bottom h2::before {
     font-size: 1.2rem;
     padding-right: 0.5em;
